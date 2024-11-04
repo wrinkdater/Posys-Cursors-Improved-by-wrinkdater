@@ -36,7 +36,7 @@ HKCU,"Control Panel\Cursors",Pin,0x00020000,"%10%\%CUR_DIR%\%pin%"
 HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.exe shell32.dll,Control_RunDLL main.cpl @0,1"
 
 [Scheme.Cur]
-Posy Black for 125 and 175 default.cur
+Posy Black for 125 and 175 cursor.cur
 Posy Black for 125 and 175 help.cur
 Posy Black for 125 and 175 background max 96.ani
 Posy for 125 and 175 wait max 96.ani
@@ -59,7 +59,7 @@ Posy Black for 125 and 175 person.cur
 [Strings]
 CUR_DIR       = "Cursors\Posys Black for 125&175% Improved by wrink+dater"
 SCHEME_NAME   = "Posy's Black for 125&175% Improved by wrink+dater"
-pointer       = "Posy Black for 125 and 175 default.cur"
+pointer       = "Posy Black for 125 and 175 cursor.cur"
 help          = "Posy Black for 125 and 175 help.cur"
 work          = "Posy Black for 125 and 175 background max 96.ani"
 busy          = "Posy for 125 and 175 wait max 96.ani"
