@@ -36,7 +36,7 @@ HKCU,"Control Panel\Cursors",Pin,0x00020000,"%10%\%CUR_DIR%\%pin%"
 HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.exe shell32.dll,Control_RunDLL main.cpl @0,1"
 
 [Scheme.Cur]
-Posy default.cur
+Posy cursor.cur
 Posy help.cur
 Posy background max 96.ani
 Posy wait max 96.ani
@@ -59,7 +59,7 @@ Posy person.cur
 [Strings]
 CUR_DIR       = "Cursors\Posys Default Improved by wrink+dater"
 SCHEME_NAME   = "Posy's Default Improved by wrink+dater"
-pointer       = "Posy default.cur"
+pointer       = "Posy cursor.cur"
 help          = "Posy help.cur"
 work          = "Posy background max 96.ani"
 busy          = "Posy wait max 96.ani"
