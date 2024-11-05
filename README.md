@@ -1,14 +1,15 @@
 # Posys-Cursors-Improved-by-wrink+dater
 
-![Default](https://user-images.githubusercontent.com/95716821/202490563-743330e4-6df4-424c-8a90-80a51b851bb2.png)
+![Default](https://github.com/user-attachments/assets/48933d94-2bed-4535-a27b-0c700c221ad5)
 
-![Black](https://user-images.githubusercontent.com/95716821/202490628-2d39bec5-c11f-4dba-9193-c8f5d3ac9581.png)
+![Black](https://github.com/user-attachments/assets/2db67126-2764-4f25-a9c7-6a01cea41b31)
 
-![Mono](https://user-images.githubusercontent.com/95716821/202490738-90ba3b00-8600-48ec-8c42-d19e28713033.png)
+![Mono](https://github.com/user-attachments/assets/9170f6ff-7b5b-417d-ba9f-3827ca95951d)
 
-![Mono Black](https://user-images.githubusercontent.com/95716821/202490783-53ca6af2-1389-442c-a665-ecb00a23d8d5.png)
+![Mono Black](https://github.com/user-attachments/assets/a03bc9ac-15a7-41db-a472-d923a56d5e2f)
 
-![Extras](https://user-images.githubusercontent.com/95716821/202490815-1f066b2e-ae52-42f6-9114-d2dc7fb91cf4.png)
+![Extras](https://github.com/user-attachments/assets/cdbddaa9-ed67-4d7c-8506-ee68652b1c1e)
+
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
