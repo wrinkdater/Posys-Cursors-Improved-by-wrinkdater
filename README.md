@@ -35,13 +35,22 @@ Enjoy!
 
 Version history:
 
-2022-11-17 (v1.7 Final) by wrink+dater:
+2024-11-05 (v1.8) by wrink+dater:
+- added Default Left scheme (meant for the left handed) by Neil Munck;
+- added 125&175% variants of Default and Black schemes;
+- added 125&175% variants of Default and Black cursors with tail in Extras;
+- added Black Point Outside and Mono Black Point Outside schemes;
+- added Black Point Outside cursor with tail in Extras;
+- returned Max 128 versions for animated cursors in Extras;
+- fixed hot spots (clickpoints) for all cursors.
+
+2022-11-17 (v1.7) by wrink+dater:
 - verified compatibility with Windows 11;
 - improved installation script with the subsequent appearance of the cursor settings window;
-- added some new cursors in extras.
+- added some new cursors in Extras.
 
 2022-05-24 (v1.6) by wrink+dater:
-- returned two cursors in extras: white/black cursors with tail.
+- returned two cursors in Extras: default/black cursors with tail.
 
 2022-05-11 (v1.5) by wrink+dater:
 - added new cursors: pin black, person black and mono forbidden;
@@ -52,9 +61,3 @@ Version history:
 - removed strokeless scheme and some extra pointers;
 - removed tail from all cursors;
 - added new cursors: white alt, mono person black, mono pin black, black hand wrong finger.
-
-2020-06-01 (v1.3) Replaced a faulty cursor file in the 'All Posy's cursors' zip file (thanks Corey!).
-
-2020-03-01 (v1.2) Added 'Posy precise v2' and 'Posy beam Free Center' to the extra cursors.
-
-2018-11-16 (v1.1) Improved the 125% scaling cursor sets to include 175% scaling correction as well.
