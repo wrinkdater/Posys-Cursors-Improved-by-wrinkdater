@@ -19,7 +19,7 @@ The source cursors were created by Michiel de Boer aka Posy: http://www.michield
 
 info and instructions.txt:
 
-To easily install the cursors in Windows 10 and below, do the following:
+To easily install the cursors in Windows 11 and below, do the following:
 
 0. Agree to these terms: I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
