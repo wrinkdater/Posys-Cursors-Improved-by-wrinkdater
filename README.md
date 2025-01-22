@@ -161,9 +161,9 @@ Enjoy!
 
 Version history:
 
-2025-01-22 by wrinkdater:
+2025-01-22 (v1.9) by wrinkdater:
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
-- added Unintrusive Negative in Extras.
+- added Unintrusive Negative beam in Extras.
 
 2024-11-05 (v1.8) by wrinkdater:
 - added Default Left scheme (meant for the left handed) by Neil Munck;
