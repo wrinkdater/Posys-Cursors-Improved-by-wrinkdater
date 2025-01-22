@@ -1,15 +1,149 @@
 # Posys-Cursors-Improved-by-wrinkdater
 
-![Default](https://github.com/user-attachments/assets/48933d94-2bed-4535-a27b-0c700c221ad5)
-
-![Black](https://github.com/user-attachments/assets/2db67126-2764-4f25-a9c7-6a01cea41b31)
-
-![Mono](https://github.com/user-attachments/assets/9170f6ff-7b5b-417d-ba9f-3827ca95951d)
-
-![Mono Black](https://github.com/user-attachments/assets/a03bc9ac-15a7-41db-a472-d923a56d5e2f)
-
-![Extras](https://github.com/user-attachments/assets/cdbddaa9-ed67-4d7c-8506-ee68652b1c1e)
-
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1163px"><colgroup>
+<col style="width: 124.2px">
+<col style="width: 132.2px">
+<col style="width: 108.2px">
+<col style="width: 113.2px">
+<col style="width: 120.2px">
+<col style="width: 180.2px">
+<col style="width: 385.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th></th>
+    <th>Default</th>
+    <th>Mono</th>
+    <th>Mono<br>Black</th>
+    <th>Black</th>
+    <th>Default<br>Left</th>
+    <th>Extras</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>pointer</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>help</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>work</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>busy</td>
+    <td></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>beam</td>
+    <td colspan="5"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>unavailable</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>vertical</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>horizontal</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>diagonal_1</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>diagonal_2</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>move</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>link</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>precise</td>
+    <td colspan="5"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>pen</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>alternate</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>pin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>person</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table></div>
 
 NOTE: I am not responsible if anything happens to software or hardware.
 
@@ -35,6 +169,10 @@ You can always manually install the cursors, or check the installer yourself by 
 Enjoy!
 
 Version history:
+
+2025-01-22 by wrinkdater:
+- added Unintrusive beam by Jens-3302 and fixed it in Extras;
+- added Unintrusive Negative in Extras.
 
 2024-11-05 (v1.8) by wrinkdater:
 - added Default Left scheme (meant for the left handed) by Neil Munck;
