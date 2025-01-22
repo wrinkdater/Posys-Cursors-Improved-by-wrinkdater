@@ -1,15 +1,6 @@
 # Posys-Cursors-Improved-by-wrinkdater
 
-<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1163px"><colgroup>
-<col style="width: 124.2px">
-<col style="width: 132.2px">
-<col style="width: 108.2px">
-<col style="width: 113.2px">
-<col style="width: 120.2px">
-<col style="width: 180.2px">
-<col style="width: 385.2px">
-</colgroup>
-<thead>
+<div class="tg-wrap"><table><thead>
   <tr>
     <th></th>
     <th>Default</th>
@@ -22,7 +13,7 @@
 <tbody>
   <tr>
     <td>pointer</td>
-    <td colspan="2"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/pointer.png" width="96" height="96"></td>
     <td colspan="2"></td>
     <td></td>
     <td></td>
