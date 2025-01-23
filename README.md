@@ -152,12 +152,12 @@ You can always manually install the cursors, or check the installer yourself by 
 
 5. Enjoy!
 
-## Version history:
+## Changelog:
 
 ### 2025-01-23 (v1.9) by wrinkdater:
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
-- fixed vertical cursor in Default and Mono schemes;
+- fixed vertical cursor in Default, Mono and Left schemes;
 - added Left Wrong Finger hand and Left Tailed pointer in Extras.
 
 ### 2024-11-05 (v1.8) by wrinkdater:
