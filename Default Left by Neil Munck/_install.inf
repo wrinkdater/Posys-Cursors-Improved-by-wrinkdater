@@ -1,6 +1,6 @@
 [Version]
 signature="$CHICAGO$"
-Posy's Cursor Left Improved by wrink+dater
+Posy's Cursor Left Improved by wrinkdater
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Txt
@@ -57,8 +57,8 @@ Posy Left person.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\Posys Left Improved by wrink+dater"
-SCHEME_NAME   = "Posy's Left Improved by wrink+dater"
+CUR_DIR       = "Cursors\Posys Left Improved by wrinkdater"
+SCHEME_NAME   = "Posy's Left Improved by wrinkdater"
 pointer       = "Posy Left cursor.cur"
 help          = "Posy Left help.cur"
 work          = "Posy Left background max 96.ani"

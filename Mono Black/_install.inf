@@ -1,6 +1,6 @@
 [Version]
 signature="$CHICAGO$"
-Posy's Mono Black Cursor Improved by wrink+dater
+Posy's Mono Black Cursor Improved by wrinkdater
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Txt
@@ -57,8 +57,8 @@ Posy Mono Black person.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\Posys Mono Black Improved by wrink+dater"
-SCHEME_NAME   = "Posy's Mono Black Improved by wrink+dater"
+CUR_DIR       = "Cursors\Posys Mono Black Improved by wrinkdater"
+SCHEME_NAME   = "Posy's Mono Black Improved by wrinkdater"
 pointer       = "Posy Black cursor.cur"
 help          = "Posy Black help.cur"
 work          = "Posy Mono Black background max 96.ani"

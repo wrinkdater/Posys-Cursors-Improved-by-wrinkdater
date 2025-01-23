@@ -1,6 +1,6 @@
 http://www.michieldb.nl/other/cursors
 
-Mirrorred version of Posy Default, meant for the left handed, done by Neil Munck and Improved by wrink+dater
+Mirrorred version of Posy Default, meant for the left handed, done by Neil Munck and Improved by wrinkdater
 
 To easily install the cursors in Windows 11 and below, do the following:
 
