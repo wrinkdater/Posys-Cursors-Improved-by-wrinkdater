@@ -18,7 +18,8 @@
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20%26%20Mono/pointer.png" width="48" height="48"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20Left/pointer.png" width="48" height="48"></td>
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/Black%20pointer.png" width="48" height="48"></td>
-    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/pointer.png" width="48" height="48"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/pointer.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/Left%20Tailed%20pointer.png" width="48" height="48"></td>
   </tr>
   <tr>
     <td>help</td>
@@ -89,15 +90,15 @@
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20%26%20Mono/link.png" width="48" height="48"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20Left/link_.png" width="48" height="48"></td>
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Wrong%20Finger%20link/Black%20link.png" width="48" height="48"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Wrong%20Finger%20link/link.png" width="48" height="48"></td>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Wrong%20Finger%20link/Left%20link.png" width="48" height="48"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Wrong%20Finger%20link/link.png" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Wrong%20Finger%20link/Left%20link.png" alt="Image" width="48" height="48"></td>
   </tr>
   <tr>
     <td>precise</td>
     <td colspan="5" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/precise.png" width="48" height="48"></td>
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/Negative%20precise.png" width="48" height="48"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/precise%20v2.png" width="48" height="48"></td>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/Negative%20precise%20v2.png" width="48" height="48"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/precise%20v2.png" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/Negative%20precise%20v2.png" alt="Image" width="48" height="48"></td>
   </tr>
   <tr>
     <td>pen</td>
@@ -157,7 +158,7 @@ You can always manually install the cursors, or check the installer yourself by 
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
 - fixed vertical cursor in Default and Mono schemes;
-- added Left Wrong Finger hand in extras.
+- added Left Wrong Finger hand and Left Tailed pointer in Extras.
 
 ### 2024-11-05 (v1.8) by wrinkdater:
 - added Default Left scheme (meant for the left handed) by Neil Munck;
