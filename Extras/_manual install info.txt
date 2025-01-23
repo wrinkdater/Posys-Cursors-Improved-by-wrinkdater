@@ -1,0 +1,9 @@
+http://www.michieldb.nl/other/cursors
+
+
+To use any of these cursors, replace liked cursors in the cursors folder (Default/Black/Mono/Mono Black), and install whole scheme by .inf file.
+(!) Make sure the new file name is the same as the original file (!)
+
+Enjoy!
+
+https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater
