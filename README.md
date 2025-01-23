@@ -1,7 +1,7 @@
 <img alt="Posys Cursors Improved by wrinkdater" src="./Showcase Images/Posys Cursors Improved by wrinkdater.png" />
 
 
-<div class="tg-wrap"><table><thead>
+<table><thead>
   <tr>
     <th></th>
     <th>Black</th>
@@ -127,7 +127,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/person.png" width="48" height="48"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20Left/person.png" width="48" height="48"></td>
   </tr>
-</tbody></table></div>
+</tbody></table>
 
 
 ## NOTE: I am not responsible if anything happens to software or hardware.
