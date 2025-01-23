@@ -1,138 +1,142 @@
 # Posys-Cursors-Improved-by-wrinkdater
 
-<div class="tg-wrap"><table><thead>
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1147px"><colgroup>
+<col style="width: 82.2px">
+<col style="width: 107.2px">
+<col style="width: 107.2px">
+<col style="width: 107.2px">
+<col style="width: 107.2px">
+<col style="width: 107.2px">
+<col style="width: 142.2px">
+<col style="width: 105.2px">
+<col style="width: 90.2px">
+<col style="width: 85.2px">
+<col style="width: 106.2px">
+</colgroup>
+<thead>
   <tr>
     <th></th>
-    <th>Default</th>
-    <th>Mono</th>
-    <th>Mono<br>Black</th>
     <th>Black</th>
+    <th>Mono Black</th>
+    <th>Mono</th>
+    <th>Default</th>
     <th>Default<br>Left</th>
-    <th>Extras</th>
+    <th colspan="5">Extras</th>
   </tr></thead>
 <tbody>
   <tr>
     <td>pointer</td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/pointer.png" width="96" height="96"></td>
     <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/pointer.png" width="96" height="96"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/pointer.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/Tailed%20pointers/Black%20pointer.png" width="96" height="96"></td>
+    <td colspan="4" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/Tailed%20pointers/pointer.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>help</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/help.png" width="96" height="96"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/help.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/help.png" width="96" height="96"></td>
+    <td colspan="5" rowspan="3"></td>
   </tr>
   <tr>
-    <td>work</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>working</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black/working.gif" width="64" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono%20Black/working.gif" width="57" height="92"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono/working.gif" width="57" height="92"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/working.gif" width="64" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/working.gif" width="64" height="96"></td>
   </tr>
   <tr>
     <td>busy</td>
-    <td></td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/busy.gif" width="80" height="83"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono%20%26%20Mono%20Black/busy.gif" width="72" height="75"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/busy.gif" width="80" height="83"></td>
   </tr>
   <tr>
     <td>beam</td>
-    <td colspan="5"></td>
-    <td></td>
+    <td colspan="5" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/beamm.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/beam/Negative%20beam.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/beam/Unintrusive%20beam.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/beam/Unintrusive%20Negative%20beam.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/beam/Free%20Center%20beam.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/beam/Free%20Center%20Negative%20beam.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>unavailable</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black/unavailable.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono%20Black/unavailable.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono/unavailable.png" width="96" height="96"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/unavailable.png" width="96" height="96"></td>
+    <td colspan="5" rowspan="6"></td>
   </tr>
   <tr>
     <td>vertical</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/vertical.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/vertical.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>horizontal</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/horizontal.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/horizontal.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>diagonal_1</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/diagonal_1.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/diagonal_1.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>diagonal_2</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/diagonal_2.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/diagonal_2.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>move</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/move.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/move.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>link</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/link.png" width="96" height="96"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/link.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/link_.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/Wrong%20Finger%20link/Black%20link.png" width="96" height="96"></td>
+    <td colspan="4" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/Wrong%20Finger%20link/link.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>precise</td>
-    <td colspan="5"></td>
-    <td></td>
+    <td colspan="5" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/precise.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/precise/Negative%20precise.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/precise/precise%20v2.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Extras/precise/Negative%20precise%20v2.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>pen</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/pen.png" width="96" height="96"></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/pen.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/pen.png" width="96" height="96"></td>
+    <td colspan="5" rowspan="4"></td>
   </tr>
   <tr>
     <td>alternate</td>
-    <td colspan="2"></td>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black%20%26%20Mono%20Black/alt.png" width="96" height="96"></td>
+    <td colspan="3" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20%26%20Mono/alt.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>pin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black/pin.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono%20Black/pin.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono/pin.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/pin.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/pin.png" width="96" height="96"></td>
   </tr>
   <tr>
     <td>person</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Black/person.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono%20Black/person.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Mono/person.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default/person.png" width="96" height="96"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/Animated-table-for-README.md/Showcase%20Images/Default%20Left/person.png" width="96" height="96"></td>
   </tr>
 </tbody></table></div>
 
