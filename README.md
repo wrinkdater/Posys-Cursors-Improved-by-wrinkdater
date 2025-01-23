@@ -1,4 +1,4 @@
-# Posys-Cursors-Improved-by-wrinkdater
+<img alt="Posys Cursors Improved by wrinkdater" src="./Showcase Images/Posys Cursors Improved by wrinkdater.png" />
 
 <div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1114px"><colgroup>
 <col style="width: 82.2px">
@@ -167,7 +167,7 @@ You can always manually install the cursors, or check the installer yourself by 
 ### 2025-01-23 (v1.9) by wrinkdater:
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
-- fixed vertical in Default and Mono schemes;
+- fixed vertical cursor in Default and Mono schemes;
 - added Left Wrong Finger hand in extras.
 
 ### 2024-11-05 (v1.8) by wrinkdater:
