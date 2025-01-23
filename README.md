@@ -158,7 +158,7 @@ You can always manually install the cursors, or check the installer yourself by 
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
 - fixed vertical cursor in Default, Mono and Left schemes;
-- added Left Wrong Finger hand and Left Tailed pointer in Extras.
+- added Left Wrong Finger hand and Tailed Left  pointer in Extras.
 
 ### 2024-11-05 (v1.8) by wrinkdater:
 - added Default Left scheme (meant for the left handed) by Neil Munck;
