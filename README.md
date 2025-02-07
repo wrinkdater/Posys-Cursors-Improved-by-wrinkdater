@@ -1,14 +1,7 @@
 <img alt="Posys Cursors Improved by wrinkdater" src="./Showcase Images/Posys Cursors Improved by wrinkdater.png" />
 
 # Schemes Showcase
-<table style="undefined;table-layout: fixed; width: 416px"><colgroup>
-<col style="width: 83.2px">
-<col style="width: 83.2px">
-<col style="width: 83.2px">
-<col style="width: 83.2px">
-<col style="width: 83.2px">
-</colgroup>
-<thead>
+<div class="tg-wrap"><table><thead>
   <tr>
     <th></th>
     <th>Default</th>
@@ -46,10 +39,10 @@
   </tr>
   <tr>
     <td>unavailable</td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/unavailable.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/unavailable.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/unavailable.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/unavailable.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/unavailable.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/unavailable.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/unavailable.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/unavailable.png" alt="Image" width="48" height="48"></td>
   </tr>
   <tr>
     <td>vertical</td>
@@ -97,23 +90,23 @@
   </tr>
   <tr>
     <td>pin</td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/pin.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/pin.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/pin.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/pin.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/pin.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/pin.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/pin.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/pin.png" alt="Image" width="48" height="48"></td>
   </tr>
   <tr>
     <td>person</td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/person.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/person.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/person.png" alt="Image" width="48" height="48"></td>
-    <td><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/person.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/person.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/person.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/person.png" alt="Image" width="48" height="48"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/person.png" alt="Image" width="48" height="48"></td>
   </tr>
-</tbody></table>
+</tbody></table></div>
 
 
 
-<table style="undefined;table-layout: fixed; width: 499px"><colgroup>
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 499px"><colgroup>
 <col style="width: 83.2px">
 <col style="width: 83.2px">
 <col style="width: 83.2px">
@@ -154,7 +147,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/precise/Negative%20precise%20v2.png" alt="Image" width="48" height="48"></td>
     <td colspan="2"></td>
   </tr>
-</tbody></table>
+</tbody></table></div>
 
 ## NOTE: I am not responsible if anything happens to software or hardware.
 
