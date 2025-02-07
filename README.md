@@ -172,6 +172,9 @@ You can always manually install the cursors, or check the installer yourself by 
 
 ## Changelog:
 
+### 2025-02-07 (v1.91) by wrinkdater:
+- fixed colors for help.cur in Default and Mono schemes.
+
 ### 2025-01-23 (v1.9) by wrinkdater:
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
