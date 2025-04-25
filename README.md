@@ -47,6 +47,9 @@ You can always manually install the cursors, or check the installer yourself by 
 
 ## Changelog:
 
+### 2025-04-25 (v1.92) by wrinkdater:
+- added Wrong Finger cursors for pin and person in Extras.
+
 ### 2025-02-07 (v1.91) by wrinkdater:
 - fixed colors for help.cur in Default, Mono, Default for 125&175% scales and Default Left schemes.
 
