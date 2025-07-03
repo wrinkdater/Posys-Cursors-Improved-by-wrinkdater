@@ -42,6 +42,8 @@ You can always manually install the cursors, or check the installer yourself by 
 
 5. Enjoy!
 
+## [License: "Attribution-NonCommercial" (free to use, change and distribute for non-commercial use)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
 ## Changelog:
 
 ### 2025-04-25 (v1.92) by wrinkdater:
