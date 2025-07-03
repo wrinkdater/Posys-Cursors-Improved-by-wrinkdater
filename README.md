@@ -42,7 +42,7 @@ You can always manually install the cursors, or check the installer yourself by 
 
 5. Enjoy!
 
-## [License: "Attribution-NonCommercial" (free to use, change and distribute for non-commercial use)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+## License: "[Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/deed.en)" (free to use, change and distribute for non-commercial use)
 
 ## Changelog:
 
