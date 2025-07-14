@@ -46,19 +46,19 @@ You can always manually install the cursors, or check the installer yourself by 
 
 ## Changelog:
 
-### 2025-04-25 (v1.92) by wrinkdater:
+2025-04-25 (v1.92) by wrinkdater:
 - added Wrong Finger cursors for pin and person in Extras.
 
-### 2025-02-07 (v1.91) by wrinkdater:
+2025-02-07 (v1.91) by wrinkdater:
 - fixed colors for help.cur in Default, Mono, Default for 125&175% scales and Default Left schemes.
 
-### 2025-01-23 (v1.9) by wrinkdater:
+2025-01-23 (v1.9) by wrinkdater:
 - added Unintrusive beam by Jens-3302 and fixed it in Extras;
 - added Unintrusive Negative beam in Extras;
 - fixed vertical cursor in Default, Mono and Left schemes;
 - added Left Wrong Finger hand and Tailed Left  pointer in Extras.
 
-### 2024-11-05 (v1.8) by wrinkdater:
+2024-11-05 (v1.8) by wrinkdater:
 - added Default Left scheme (meant for the left handed) by Neil Munck;
 - added 125&175% variants of Default and Black schemes;
 - added 125&175% variants of Default and Black cursors with tail in Extras;
@@ -67,19 +67,19 @@ You can always manually install the cursors, or check the installer yourself by 
 - returned Max 128 versions for animated cursors in Extras;
 - fixed hot spots (clickpoints) for all cursors.
 
-### 2022-11-17 (v1.7) by wrinkdater:
+2022-11-17 (v1.7) by wrinkdater:
 - verified compatibility with Windows 11;
 - improved installation script with the subsequent appearance of the cursor settings window;
 - added some new cursors in Extras.
 
-### 2022-05-24 (v1.6) by wrinkdater:
+2022-05-24 (v1.6) by wrinkdater:
 - returned two cursors in Extras: default/black cursors with tail.
 
-### 2022-05-11 (v1.5) by wrinkdater:
+2022-05-11 (v1.5) by wrinkdater:
 - added new cursors: pin black, person black and mono forbidden;
 - changed stroke color for forbidden cursor standard scheme.
 
-### 2021-11-08 (v1.4) by wrinkdater: 
+2021-11-08 (v1.4) by wrinkdater: 
 - added pin and person pointers to .inf installers for original scale schemes;
 - removed strokeless scheme and some extra pointers;
 - removed tail from all cursors;
