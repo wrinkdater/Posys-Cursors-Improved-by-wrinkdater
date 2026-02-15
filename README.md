@@ -29,18 +29,47 @@ The source cursors were created by Michiel de Boer aka Posy: http://www.michield
 
 ## Installation:
 
-0. Agree to these terms: I am not responsible if anything happens to software or hardware.
+*Agree to these terms:* I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
 
-1. Drag the containing folder out of the Zip file.
+*Windows*
+    1. Drag the containing folder out of the Zip file.
 
-2. Open the folder.
+    2. Open the folder and go into the windows folder.
 
-3. Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
+    3. Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
 
-4. Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
+    4. Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
 
-5. Enjoy!
+    5. Enjoy!
+
+*Linux*
+    [These instructions are for X11 and you'll have to figure it out on wayland]
+
+    1. Go in the linux folder and do the following:
+        a. See which one of the variants you want
+        b. Run the file called linux_install.sh with the name of the folder that you want to install, like this:
+            `./linux_install.sh default`
+        c. It will organize all the files in your .icons folder and the cursor should change immediately
+
+    2. Place `xrdb -merge ~/.Xresources` into the rc file of your shell or your .xinitrc for it to be updated on startup
+
+    3. Enjoy!
+
+*Building:*
+    > [!important]
+    > This requires you to create a venv in python like this:
+    >       python3 -m venv new_env
+    > After doing so, you must install the win2xcur utility like this:
+    >       pip install win2xcur
+    > The convertor requires this to function
+
+    There is a linux_convertor.ps1 script that takes 0 or 1 argument
+        - If no argument is given and the linux folder does not exist, then the script will create the linux folder and build all the corresponding duplicates of the windows variants (except for the extras folder, since the files in there dont follow the same conventions as the other folders and their contents)
+        - If an argument is given, then it will consider that to be a sub-folder in the windows folder and only make a copy of that on the linux side, this option is given so that the user may create their own custom folder (which can be named anything) and run the convertor on that folder to create a custom arrangement of the cursors
+    ```
+        usage: linux_convertor.ps1 my_custom_set # or dont put anything and it'll try and build everything
+    ```
 
 ## License: "[Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/deed.en)" (free to use, change and distribute for non-commercial use)
 
