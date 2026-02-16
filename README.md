@@ -33,6 +33,7 @@ The source cursors were created by Michiel de Boer aka Posy: http://www.michield
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
 
 *Windows*
+
     1. Drag the containing folder out of the Zip file.
 
     2. Open the folder and go into the windows folder.
@@ -44,6 +45,7 @@ You can always manually install the cursors, or check the installer yourself by 
     5. Enjoy!
 
 *Linux*
+
     [These instructions are for X11 and you'll have to figure it out on wayland]
 
     1. Go in the linux folder and do the following:
@@ -57,6 +59,7 @@ You can always manually install the cursors, or check the installer yourself by 
     3. Enjoy!
 
 *Building:*
+
     > [!important]
     > This requires you to create a venv in python like this:
     >       python3 -m venv new_env
