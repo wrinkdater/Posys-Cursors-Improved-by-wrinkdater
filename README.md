@@ -1,7 +1,7 @@
 <img alt="Posys Cursors Improved by wrinkdater" src="./Showcase Images/Posys Cursors Improved by wrinkdater.png" />
 
 # Schemes Showcase
-<table><thead><tr><td></td><td align="center">Default</td><td align="center">Mono</td><td align="center">Mono<br>Black</td><td align="center">Black</td><td rowspan="18"></td><td colspan="5" align="center">Extras</td></tr>
+<table><thead><tr><td></td><td align="center">Default</td><td align="center">Mono</td><td align="center">Mono-B</td><td align="center">Black</td><td rowspan="18"></td><td colspan="5" align="center">Extras</td></tr>
 <tr><td>pointer</td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20%26%20Mono/pointer.png" alt="Image" width="48" height="48"></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black%20%26%20Mono%20Black/pointer.png" alt="Image" width="48" height="48"></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/pointer.png" width="48" height="48"></td><td></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/Black%20pointer.png" alt="Image" width="48" height="48"></td></tr>
 <tr><td>help</td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20%26%20Mono/helpp.png" width="48" height="48"></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black%20%26%20Mono%20Black/help.png" alt="Image" width="48" height="48"></td><td colspan="5" rowspan="3"></td></tr>
 <tr><td>working</td><td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default/working.gif" alt="Image" width="32" height="48"></td><td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono/working.gif" alt="Image" width="29" height="48"></td><td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Mono%20Black/working.gif" alt="Image" width="29" height="48"></td><td align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black/working.gif" alt="Image" width="32" height="48"></td></tr>
@@ -29,18 +29,58 @@ The source cursors were created by Michiel de Boer aka Posy: http://www.michield
 
 ## Installation:
 
-0. Agree to these terms: I am not responsible if anything happens to software or hardware.
+***Agree to these terms:*** I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
+
+**Windows**
 
 1. Drag the containing folder out of the Zip file.
 
-2. Open the folder.
+2. Open the folder and go into the windows folder.
 
 3. Right click the "_install" file, and choose "install" in the menu. Discard any warning messages if they appear.
 
 4. Use the drop down menu to select the cursor theme and click OK. Agree with a message if it appears.
 
 5. Enjoy!
+
+**Linux**
+
+[These instructions are for X11 and you'll have to figure it out on wayland]
+
+1. Go in the linux folder and do the following:
+
+   a. See which one of the variants you want
+
+   b. Run the file called linux_install.sh with the name of the folder that you want to install, like this:
+
+       ./linux_install.sh default
+
+   c. It will organize all the files in your .icons folder and the cursor should change immediately
+
+3. Place `xrdb -merge ~/.Xresources` into the rc file of your shell or your .xinitrc for it to be updated on startup
+
+4. Enjoy!
+
+**Converting cursors:**
+
+> [!important]
+> This requires you to create a venv in python like this:
+> 
+>       python3 -m venv new_env
+> After doing so, you must install the win2xcur utility like this:
+> 
+>       pip install win2xcur
+> The convertor requires this to function
+
+There is a linux_convertor.ps1 script that takes 0 or 1 argument
+    
+- If no argument is given and the linux folder does not exist, then the script will create the linux folder and build all the corresponding duplicates of the windows variants (except for the extras folder, since the files in there dont follow the same conventions as the other folders and their contents)
+    
+- If an argument is given, then it will consider that to be a sub-folder in the windows folder and only make a copy of that on the linux side, this option is given so that the user may create their own custom folder (which can be named anything) and run the convertor on that folder to create a custom arrangement of the cursors
+```
+usage: linux_convertor.ps1 my_custom_set # or dont put anything and it'll try and convert everything
+```
 
 ## License: "[Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/deed.en)" (free to use, change and distribute for non-commercial use)
 
