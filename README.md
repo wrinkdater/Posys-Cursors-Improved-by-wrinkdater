@@ -32,7 +32,7 @@ The source cursors were created by Michiel de Boer aka Posy: http://www.michield
 ***Agree to these terms:*** I am not responsible if anything happens to software or hardware.
 You can always manually install the cursors, or check the installer yourself by opening it in Notepad.
 
-**Windows**
+### Windows
 
 1. Drag the containing folder out of the Zip file.
 
@@ -44,21 +44,35 @@ You can always manually install the cursors, or check the installer yourself by 
 
 5. Enjoy!
 
-**Linux**
+### Linux
 
-[These instructions are for X11 and you'll have to figure it out on wayland]
-
+**X11**
 1. Go in the linux folder and do the following:
 
    a. See which one of the variants you want
 
-   b. Run the file called linux_install.sh with the name of the folder that you want to install, like this:
+   b. Run the file called `x11_install.sh` with the name of the folder that you want to install, like this:
 
-       ./linux_install.sh default
+       ../x11_install.sh default
 
-   c. It will organize all the files in your .icons folder and the cursor should change immediately
+   c. It will organize all the files in your `~/.icons` folder and the cursor should change immediately
 
-3. Place `xrdb -merge ~/.Xresources` into the rc file of your shell or your .xinitrc for it to be updated on startup
+3. Place `xrdb -merge ~/.Xresources` into the rc file of your shell or your `.xinitrc` for it to be updated on startup
+
+4. Enjoy!
+
+**Wayland**
+1. Go in the linux folder and do the following:
+
+   a. See which one of the variants you want
+
+   b. Run the file called `wl_install.sh` with the name of the folder that you want to install, like this:
+
+       ../wl_install.sh default
+
+   c. It will organize all the files in your `~/.icons` folder and the cursor should change immediately
+
+3. Follow the help message at the end of the install and you'll be good to go
 
 4. Enjoy!
 
@@ -73,7 +87,7 @@ You can always manually install the cursors, or check the installer yourself by 
 >       pip install win2xcur
 > The convertor requires this to function
 
-There is a linux_convertor.ps1 script that takes 0 or 1 argument
+There is a `linux_convertor.ps1` script that takes 0 or 1 argument
     
 - If no argument is given and the linux folder does not exist, then the script will create the linux folder and build all the corresponding duplicates of the windows variants (except for the extras folder, since the files in there dont follow the same conventions as the other folders and their contents)
     
